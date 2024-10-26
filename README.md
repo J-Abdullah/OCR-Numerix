@@ -11,7 +11,7 @@ This project demonstrates an approach to building an OCR (Optical Character Reco
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ocr_system.git
+   git clone https://github.com/J-Abdullah/OCR-Numerix.git
    cd ocr_system
    ```
 
